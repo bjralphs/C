@@ -1,5 +1,5 @@
 # C Programming Projects
-* Programming assignments exploring the C Language.
+* Projects exploring the C Language.
 # Explanation
 * Program 1 - Displays A Description, String, And Argument Count.
 * Program 2 - Demonstration of Fork() and exec().
