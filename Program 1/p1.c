@@ -1,7 +1,7 @@
 /**************************
- * Name: Bryan Ralphs
- * Class: CS060-001 Summer 2023
- * Assignment: M1
+ * Prints a program description, 
+ * then displays the array contents using a loop, 
+ * and finally shows the total number of printed strings.
  * ***********************/
 
 #include <stdio.h>
